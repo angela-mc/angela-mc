@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-Data scientist / analyst with a background in statistical modeling, data engineering (R), and reproducible workflows.
+I am angela-mc: Data scientist / analyst with a background in statistical modeling, data engineering (R), and reproducible workflows.
 
 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/angelachira/
