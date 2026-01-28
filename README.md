@@ -3,7 +3,7 @@
 Data scientist / analyst with a background in statistical modeling, data engineering (R), and reproducible workflows.
 
 📫 How to reach me: 
-- LinkedIn: linkedin.com/in/angelachira
+- LinkedIn: https://www.linkedin.com/in/angelachira/
 - Google Scholar: https://scholar.google.com/citations?user=oJLGE94AAAAJ&hl=en
 
 ## Highlights
