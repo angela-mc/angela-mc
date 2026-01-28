@@ -2,7 +2,7 @@ Hi there 👋
 
 I am angela-mc: Data scientist / analyst with a background in statistical modeling, data engineering (R), and reproducible workflows.
 
-📫 How to reach me: 
+📫 Find me at: 
 - LinkedIn: https://www.linkedin.com/in/angelachira/
 - Google Scholar: https://scholar.google.com/citations?user=oJLGE94AAAAJ&hl=en
 
