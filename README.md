@@ -1,14 +1,14 @@
 Hi there 👋
 
-I am angela-mc: Data scientist with a background in statistical modeling, data engineering (R), and reproducible workflows.
+I am angela-mc: Data scientist with 7+ years of experience leading end-to-end statistical work.
 
 📫 Find me at: 
 - LinkedIn: https://www.linkedin.com/in/angelachira/
 - Google Scholar: https://scholar.google.com/citations?user=oJLGE94AAAAJ&hl=en
 
 ## Highlights
-- Multi-source data integration, QC, and analysis-ready dataset engineering
-- Bayesian/statistical modeling + uncertainty quantification, causal inference, predictive modelling
+- Multi-source data integration, QC, reproducible pipelines, and analysis-ready dataset engineering
+- Causal inference, predictive modelling, Bayesian statistics + uncertainty quantification, simulation-based validation
 - Clear communication: reports, talks, and data storytelling
 
 <!--
